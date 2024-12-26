@@ -42,7 +42,7 @@ const App = () => {
 
     const geometry = new THREE.BoxGeometry();
     const material = new THREE.MeshStandardMaterial({
-      color: 0x00ff00,
+      color: 0x00ffde,
       metalness: 0.5,
       roughness: 0.3,
     });
